@@ -1,0 +1,203 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.411567,
+          18.031282
+        ]
+      },
+      "properties": {
+        "name": "Roslagsleden etapp 1 Danderyd-Karby gård",
+        "wikidata": "http://www.wikidata.org/entity/Q135476937",
+        "osm_relation": "https://www.openstreetmap.org/relation/255160",
+        "website": "https://www.naturkartan.se/sv/stockholms-lan/danderyd-karby-gard-roslagsleden-etapp-1",
+        "image": null,
+        "UmapPop": "<b>Roslagsleden etapp 1 Danderyd-Karby gård</b><br><a href=\"https://www.naturkartan.se/sv/stockholms-lan/danderyd-karby-gard-roslagsleden-etapp-1\" target=\"_blank\">🌍 Website</a><br><a href=\"https://www.openstreetmap.org/relation/255160\" target=\"_blank\">🗺 OSM Relation</a><br><a href=\"http://www.wikidata.org/entity/Q135476937\" target=\"_blank\">🔗 Wikidata</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.938412,
+          18.847035
+        ]
+      },
+      "properties": {
+        "name": "Roslagsleden etapp 10 Gåsvik-Sandviken",
+        "wikidata": "http://www.wikidata.org/entity/Q135478794",
+        "osm_relation": "https://www.openstreetmap.org/relation/1949268",
+        "website": "https://www.naturkartan.se/sv/stockholms-lan/gasvik-sandviken-roslagsleden-etapp-10",
+        "image": null,
+        "UmapPop": "<b>Roslagsleden etapp 10 Gåsvik-Sandviken</b><br><a href=\"https://www.naturkartan.se/sv/stockholms-lan/gasvik-sandviken-roslagsleden-etapp-10\" target=\"_blank\">🌍 Website</a><br><a href=\"https://www.openstreetmap.org/relation/1949268\" target=\"_blank\">🗺 OSM Relation</a><br><a href=\"http://www.wikidata.org/entity/Q135478794\" target=\"_blank\">🔗 Wikidata</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.979258,
+          18.875762
+        ]
+      },
+      "properties": {
+        "name": "Roslagsleden etapp 11 Sandviken-Grisslehamn",
+        "wikidata": "http://www.wikidata.org/entity/Q135479047",
+        "osm_relation": "https://www.openstreetmap.org/relation/195629",
+        "website": "https://www.naturkartan.se/sv/stockholms-lan/sandviken-grisslehamn-roslagsleden-tapp-11",
+        "image": null,
+        "UmapPop": "<b>Roslagsleden etapp 11 Sandviken-Grisslehamn</b><br><a href=\"https://www.naturkartan.se/sv/stockholms-lan/sandviken-grisslehamn-roslagsleden-tapp-11\" target=\"_blank\">🌍 Website</a><br><a href=\"https://www.openstreetmap.org/relation/195629\" target=\"_blank\">🗺 OSM Relation</a><br><a href=\"http://www.wikidata.org/entity/Q135479047\" target=\"_blank\">🔗 Wikidata</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.47925,
+          18.05283
+        ]
+      },
+      "properties": {
+        "name": "Roslagsleden etapp 2 Karby gård-Örsta",
+        "wikidata": "http://www.wikidata.org/entity/Q135477336",
+        "osm_relation": "https://www.openstreetmap.org/relation/1166756",
+        "website": "https://www.naturkartan.se/sv/stockholms-lan/danderyd-karby-gard-roslagsleden-etapp-1",
+        "image": null,
+        "UmapPop": "<b>Roslagsleden etapp 2 Karby gård-Örsta</b><br><a href=\"https://www.naturkartan.se/sv/stockholms-lan/danderyd-karby-gard-roslagsleden-etapp-1\" target=\"_blank\">🌍 Website</a><br><a href=\"https://www.openstreetmap.org/relation/1166756\" target=\"_blank\">🗺 OSM Relation</a><br><a href=\"http://www.wikidata.org/entity/Q135477336\" target=\"_blank\">🔗 Wikidata</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.540736,
+          18.170225
+        ]
+      },
+      "properties": {
+        "name": "Roslagsleden etapp 3 Örsta-Lövhagen",
+        "wikidata": "http://www.wikidata.org/entity/Q135477543",
+        "osm_relation": "https://www.openstreetmap.org/relation/1250333",
+        "website": "https://www.naturkartan.se/en/stockholms-lan/orsta-lovhagen-roslagsleden-etapp-3",
+        "image": null,
+        "UmapPop": "<b>Roslagsleden etapp 3 Örsta-Lövhagen</b><br><a href=\"https://www.naturkartan.se/en/stockholms-lan/orsta-lovhagen-roslagsleden-etapp-3\" target=\"_blank\">🌍 Website</a><br><a href=\"https://www.openstreetmap.org/relation/1250333\" target=\"_blank\">🗺 OSM Relation</a><br><a href=\"http://www.wikidata.org/entity/Q135477543\" target=\"_blank\">🔗 Wikidata</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.584009,
+          18.292805
+        ]
+      },
+      "properties": {
+        "name": "Roslagsleden etapp 4 Lövhagen-Domarudden",
+        "wikidata": "http://www.wikidata.org/entity/Q135477808",
+        "osm_relation": "https://www.openstreetmap.org/relation/3070378",
+        "website": "https://www.naturkartan.se/en/stockholms-lan/roslagsleden-etapp-4-lovhagen-domarudden",
+        "image": null,
+        "UmapPop": "<b>Roslagsleden etapp 4 Lövhagen-Domarudden</b><br><a href=\"https://www.naturkartan.se/en/stockholms-lan/roslagsleden-etapp-4-lovhagen-domarudden\" target=\"_blank\">🌍 Website</a><br><a href=\"https://www.openstreetmap.org/relation/3070378\" target=\"_blank\">🗺 OSM Relation</a><br><a href=\"http://www.wikidata.org/entity/Q135477808\" target=\"_blank\">🔗 Wikidata</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.517471,
+          18.342807
+        ]
+      },
+      "properties": {
+        "name": "Roslagsleden etapp 5 Domarudden-Wira bruk",
+        "wikidata": "http://www.wikidata.org/entity/Q135477946",
+        "osm_relation": "https://www.openstreetmap.org/relation/1683818",
+        "website": "https://www.naturkartan.se/en/stockholms-lan/roslagsleden-etapp-5-domarudden-wira-bruk",
+        "image": null,
+        "UmapPop": "<b>Roslagsleden etapp 5 Domarudden-Wira bruk</b><br><a href=\"https://www.naturkartan.se/en/stockholms-lan/roslagsleden-etapp-5-domarudden-wira-bruk\" target=\"_blank\">🌍 Website</a><br><a href=\"https://www.openstreetmap.org/relation/1683818\" target=\"_blank\">🗺 OSM Relation</a><br><a href=\"http://www.wikidata.org/entity/Q135477946\" target=\"_blank\">🔗 Wikidata</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.571344,
+          18.545906
+        ]
+      },
+      "properties": {
+        "name": "Roslagsleden etapp 6 Wira bruk-Penningby",
+        "wikidata": "http://www.wikidata.org/entity/Q135477950",
+        "osm_relation": "https://www.openstreetmap.org/relation/1949274",
+        "website": "https://www.naturkartan.se/sv/stockholms-lan/wira-bruk-penningby-roslagsleden-etapp-6",
+        "image": null,
+        "UmapPop": "<b>Roslagsleden etapp 6 Wira bruk-Penningby</b><br><a href=\"https://www.naturkartan.se/sv/stockholms-lan/wira-bruk-penningby-roslagsleden-etapp-6\" target=\"_blank\">🌍 Website</a><br><a href=\"https://www.openstreetmap.org/relation/1949274\" target=\"_blank\">🗺 OSM Relation</a><br><a href=\"http://www.wikidata.org/entity/Q135477950\" target=\"_blank\">🔗 Wikidata</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.680862,
+          18.682739
+        ]
+      },
+      "properties": {
+        "name": "Roslagsleden etapp 7 Penningby-Vigelsjö",
+        "wikidata": "http://www.wikidata.org/entity/Q135477952",
+        "osm_relation": "https://www.openstreetmap.org/relation/3097715",
+        "website": "https://www.naturkartan.se/sv/stockholms-lan/penningby-vigelsjo-roslagsleden-etapp-7",
+        "image": null,
+        "UmapPop": "<b>Roslagsleden etapp 7 Penningby-Vigelsjö</b><br><a href=\"https://www.naturkartan.se/sv/stockholms-lan/penningby-vigelsjo-roslagsleden-etapp-7\" target=\"_blank\">🌍 Website</a><br><a href=\"https://www.openstreetmap.org/relation/3097715\" target=\"_blank\">🗺 OSM Relation</a><br><a href=\"http://www.wikidata.org/entity/Q135477952\" target=\"_blank\">🔗 Wikidata</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.758408,
+          18.677294
+        ]
+      },
+      "properties": {
+        "name": "Roslagsleden etapp 8 Vigelsjö-Roslagsbro",
+        "wikidata": "http://www.wikidata.org/entity/Q135477954",
+        "osm_relation": "https://www.openstreetmap.org/relation/3097751",
+        "website": "https://www.naturkartan.se/sv/stockholms-lan/vigelsjo-roslagsbro-roslagsleden-etapp-8",
+        "image": null,
+        "UmapPop": "<b>Roslagsleden etapp 8 Vigelsjö-Roslagsbro</b><br><a href=\"https://www.naturkartan.se/sv/stockholms-lan/vigelsjo-roslagsbro-roslagsleden-etapp-8\" target=\"_blank\">🌍 Website</a><br><a href=\"https://www.openstreetmap.org/relation/3097751\" target=\"_blank\">🗺 OSM Relation</a><br><a href=\"http://www.wikidata.org/entity/Q135477954\" target=\"_blank\">🔗 Wikidata</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.837032,
+          18.739749
+        ]
+      },
+      "properties": {
+        "name": "Roslagsleden etapp 9 Roslagsbro-Gåsvik",
+        "wikidata": "http://www.wikidata.org/entity/Q135478541",
+        "osm_relation": "https://www.openstreetmap.org/relation/1949289",
+        "website": "https://www.naturkartan.se/sv/stockholms-lan/roslagsbro-bagghus-gasvik-roslagsleden-etapp-9",
+        "image": null,
+        "UmapPop": "<b>Roslagsleden etapp 9 Roslagsbro-Gåsvik</b><br><a href=\"https://www.naturkartan.se/sv/stockholms-lan/roslagsbro-bagghus-gasvik-roslagsleden-etapp-9\" target=\"_blank\">🌍 Website</a><br><a href=\"https://www.openstreetmap.org/relation/1949289\" target=\"_blank\">🗺 OSM Relation</a><br><a href=\"http://www.wikidata.org/entity/Q135478541\" target=\"_blank\">🔗 Wikidata</a>"
+      }
+    }
+  ]
+}
